@@ -1,0 +1,16 @@
+{
+  "func": {
+    "render": {
+      "http:/*": [
+        {
+          "time": 1600670411598,
+          "data": "{\n  \"headers\": {\n    \"Content-Type\": \"text/json\"\n  },\n  \"method\": \"GET\",\n  \"query\": {\n    \"q\": \"test\"\n  },\n  \"path\": \"/\",\n  \"body\": {\n    \"name\": \"midway faas\"\n  }\n}"
+        },
+        {
+          "time": 1600670214901,
+          "data": "{\n  \"headers\": {\n    \"Content-Type\": \"text/json\"\n  },\n  \"method\": \"GET\",\n  \"query\": {\n    \"q\": \"test\"\n  },\n  \"path\": \"/\",\n  \"body\": {\n    \"name\": \"midway faas\"\n  }\n}"
+        }
+      ]
+    }
+  }
+}
